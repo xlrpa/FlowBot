@@ -43,6 +43,12 @@
 
 注：Gif动图为机器人自动运行
 
+### 🔍 关键词
+
+`微信机器人` `微信` `企业微信` `企业微信机器人` `企微` `企微机器人` `WeChat Bot` `WeCom` `RPA自动化` `Android自动化` 
+`Automation` `API控制` `无障碍服务` `WorkTool` `WeTool` `Vbot` 
+`聊天机器人` `群发助手` `营销工具` `客服机器人`
+
 ### Copyright 版权
 
 本产品采用 GPL-V2 许可证
