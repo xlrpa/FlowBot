@@ -11,7 +11,7 @@
     - 可使用FlowBot打包版本：[点击下载最新版本](https://www.xcxwo.com/XhAZ9Wbg) 
 - 如果您是 **业务负责人 / 老板**
     - 可联系FlowBot官方客服协助你演示功能与技术对接
-    - <img src="./images/contact_us.png" width="300" height="auto" alt="联系我们">
+    - <img src="https://api.apifox.com/api/v1/projects/5365438/resources/693063/image-preview" width="300" height="auto" alt="联系我们">
 
 ### 风险提示
 
@@ -61,4 +61,4 @@
 - ⭐️ 合作申请: https://flowbot.apifox.cn
 - 💻 Email: xingliurpa@qq.com
 - 🤗 官方客服: 技术支持、问题反馈
-- <img src="./images/contact_us.png" width="300" height="auto" alt="联系我们">
+- <img src="https://api.apifox.com/api/v1/projects/5365438/resources/693063/image-preview" width="300" height="auto" alt="联系我们">
