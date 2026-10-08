@@ -16,7 +16,7 @@
 ### 风险提示
 
 - 本 APP 采用 Google 安卓系统的 **官方无障碍服务**，并在此基础上 **自研自动化框架，无 hook 函数、无侵入、无破坏、无内存修改，与 PC 端 RPA 完全不同**，手机无需破解 Root 权限，兼容绝大部分机型，支持长时间运行稳定。工信部发文要求各大 APP 必须进行无障碍改造，这是 **政府和官方支持的唯一自动化方案**，请拒绝黑产，拒绝影响微信生态的任何行为，鼓励无障碍服务改造！[点进跳转工信部文章链接](https://www.cnii.com.cn/zcjd/202012/t20201228_243049.html)
-- 如果您的使用场景对信息极为敏感，数据独立隔离或有其他定制需求，可以提交 [定制申请](https://flowbot.apifox.cn) 获取更高级数据安全方案。
+- 如果您的使用场景对信息极为敏感，数据独立隔离或有其他定制需求，可以提交 [定制申请](https://flowbot.xlrpa.com) 获取更高级数据安全方案。
 - 如果您的账号曾有被封或禁言等行为，请勿使用本工具！如您的行为违反 **腾讯运营规范** 或 **国家法律规定**，请勿使用本工具！[点进跳转企业微信安全指南链接](https://open.work.weixin.qq.com/help2/pc/cat?person_id=1&is_tencent=&doc_id=14664)
 
 ### 文档
@@ -27,7 +27,7 @@
 
 这里有所有详细的API文档和调用示例！！！
 
-📝 https://flowbot.apifox.cn
+📝 https://flowbot.apifox.cn/doc-5369839
 
 ### 部分功能演示
 
@@ -58,7 +58,8 @@
 
 ### 联系方式
 
-- ⭐️ 合作申请: https://flowbot.apifox.cn
-- 💻 Email: xingliurpa@qq.com
-- 🤗 官方客服: 技术支持、问题反馈
+- 💻 官方网站: https://flowbot.xlrpa.com
+- 📝 API文档：https://flowbot.apifox.cn/doc-5369839
+- 👨‍💻‍ Email: xingliurpa@qq.com
+- 👩‍🏫‍ 官方客服: 技术支持、问题反馈
 <img src="https://api.apifox.com/api/v1/projects/5365438/resources/693063/image-preview" width="300" height="auto" alt="联系我们">
