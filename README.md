@@ -60,6 +60,6 @@
 
 - 💻 官方网站: https://flowbot.xlrpa.com
 - 📝 API文档：https://flowbot.apifox.cn/doc-5369839
-- 👨‍💻‍ Email: xingliurpa@qq.com
-- 👩‍🏫‍ 官方客服: 技术支持、问题反馈
+- 👨‍💻‍ Email：xingliurpa@qq.com
+- 👩‍🏫‍ 官方客服：技术支持、问题反馈
 <img src="https://api.apifox.com/api/v1/projects/5365438/resources/693063/image-preview" width="300" height="auto" alt="联系我们">
